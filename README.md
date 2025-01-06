@@ -1,8 +1,9 @@
 # NIKKE Character Swapper
 A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bingle and Danieru for the help.
 
-### NOTE: IT DOESN'T WORK TO SWAP OTHER CHARACTERS OR SKINS OVER "MARCIANA SKIN/EVANGELION SKINS/MAST DIVER SKIN", IT ONLY WORKS TO SWAP "MARCIANA SKIN/EVANGELION SKINS/MAST DIVER SKIN" OVER OTHER CHARACTERS/SKINS (FOR EXAMPLE MARCIANA SKIN OVER DEFAULT DRAKE OR DRAKE SKINS, OR MARCIANA SKIN OVER DEFAULT MARCIANA).
-Guillotine Winter Slayer is not working as well.
+### NOTE: The character swapper works to swap any character over any other character.
+You can swap special cases (Marciana skin/Evangelion skins/Mast Diver skin) over other characters, but it doesn't work if you want to swap other characters over the mentioned special cases (Marciana skin/Evangelion skins/Mast Diver skin).
+It doesn't work if you want to swap other characters over standing Guillotine Winter Slayer either.
 
 
 ## Before to use this tool:
