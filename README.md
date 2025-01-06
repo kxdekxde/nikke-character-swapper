@@ -41,8 +41,6 @@ A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bi
 12. If everything worked you will see the swapped character files saved on your Desktop in a new folder named "CHARACTERS_SWAPPED".
 13. Move those files from that folder "CHARACTERS_SWAPPED" to your "mods" folder located in your NMM folder.
 
+Happy modding! ^‿^
 
-
-## Video Guide:
-[!video](https://files.catbox.moe/p0g80b.mp4)
 
