@@ -1,7 +1,7 @@
 # NIKKE Character Swapper
 A simple tool useful to mod [NIKKE](https://nikke-en.com/) bundles. Thanks to Bingle and Danieru for the help.
 
-### NOTE: The character swapper works to swap any character over any other character. You can swap special cases (Marciana skin/Evangelion skins/Mast Diver skin) over other characters, but it doesn't work if you want to swap other characters over the mentioned special cases (Marciana skin/Evangelion skins/Mast Diver skin). It doesn't work if you want to swap other characters over standing Guillotine Winter Slayer either.
+### NOTE: The character swapper works to swap any character over any other character. You can swap special cases (Marciana skin/Evangelion skins/Mast Diver skin) over other characters, but it doesn't work if you want to swap other characters over the mentioned special cases (Marciana skin/Evangelion skins/Mast Diver skin). It doesn't work if you want to swap other characters over standing Guillotine Winter Slayer or Mast/Anchor alts either.
 
 
 ## Before to use this tool:
