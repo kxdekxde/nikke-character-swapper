@@ -35,7 +35,7 @@ The .exe file is a SFX file created with WinRAR that contains all of the Python 
 4. You will see another message "Write the character name you will use for the swap:", write the other character that will be used for the swap. For my example I write 2B. Hit Enter.
 5. You will see the message "Write the skin number for [character name]:" again, write the corresponding skin number you want. For my example I write 01 since I'm swapping 2B skin (01) over default Naga (00). Hit Enter.
 6. Wait until the tool finishes to process stuff, you will see the message "Press enter to continue" three times so just hit Enter until the Terminal window continues with the process.
-7. If everything worked you will see the swapped character files saved on your Desktop in a new folder named "CHARACTERS_SWAPPED".
+7. If everything worked you will see the swapped character files saved on your `C:` drive in a new folder named "CHARACTERS_SWAPPED".
 8. Move those files from that folder "CHARACTERS_SWAPPED" to your "mods" folder located in your NMM folder.
 
 Happy modding! ^‿^
